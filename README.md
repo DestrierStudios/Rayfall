@@ -13,4 +13,4 @@ Med Prio: Opposed Checks, Trying Again, Time and Checks
 Low Prio: Conlang for Fanboga, Aiding Another
 
 Completed Sections of CE:
-Core Task Resolution System, Dire Rolls, Difficulty and Effect, Circumstance Modifiers
+Core Task Resolution System, Dice Rolls, Difficulty and Effect, Circumstance Modifiers
