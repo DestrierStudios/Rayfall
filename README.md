@@ -2,12 +2,15 @@ A weird science-fantasy game using proc gen, inspired by Daggerfall, Star Fox, V
 
 Core logic via Cepheus Engine (TM Jason "Flynn" Kemp) distributed under an open game license.
 
-Status: Nothing done.
+Status: Page 16
 
 To-Do:
 
-High Prio: Algorithm for homeworld generation, Player creation
+High Prio: 
 
-Med Prio: 
+Med Prio: Opposed Checks, Trying Again, Time and Checks
 
-Low Prio: Conlang for Fanboga
+Low Prio: Conlang for Fanboga, Aiding Another
+
+Completed Sections of CE:
+Core Task Resolution System, Dire Rolls, Difficulty and Effect, Circumstance Modifiers
