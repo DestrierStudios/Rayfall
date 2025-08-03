@@ -4,7 +4,7 @@ Core logic via Cepheus Engine (TM Jason "Flynn" Kemp) distributed under an open 
 
 Status: Nothing done.
 
-To-DO:
+To-Do:
 
 High Prio: Algorithm for homeworld generation, Player creation
 
